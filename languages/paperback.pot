@@ -1,0 +1,1361 @@
+# Copyright (C) 2018 Array
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Paperback 1.7.9\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-06-27 16:14:39+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.2\n"
+
+#: 404.php:13
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"It looks like nothing was found at this location. Please use the search box "
+"or the sitemap to locate the content you were looking for."
+msgstr ""
+
+#: 404.php:21
+msgid "Sitemap"
+msgstr ""
+
+#: comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:95
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:96
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:97
+msgid "Social Icon Menu"
+msgstr ""
+
+#: functions.php:98
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:157
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:159
+msgid "Widgets added here will appear on the sidebar of posts and pages."
+msgstr ""
+
+#: functions.php:167
+msgid "Footer"
+msgstr ""
+
+#: functions.php:169
+msgid "Widgets added here will appear in the footer."
+msgstr ""
+
+#: functions.php:467 inc/template-tags.php:16
+msgid "Category: %s"
+msgstr ""
+
+#: functions.php:467
+msgid "<a class=\"view-all\" href=\"%s\">View All</a>"
+msgstr ""
+
+#: functions.php:469
+msgid "No articles were found."
+msgstr ""
+
+#: functions.php:515 template-parts/content.php:72
+msgid "Read More"
+msgstr ""
+
+#: header.php:50 inc/edd/content-fixed-bar-edd.php:85
+#: template-parts/content-fixed-bar.php:78
+msgid "Explore"
+msgstr ""
+
+#: header.php:54 header.php:65 header.php:107
+msgid "Close"
+msgstr ""
+
+#: header.php:61 inc/edd/content-fixed-bar-edd.php:91
+#: inc/edd/content-fixed-bar-edd.php:96 template-parts/content-fixed-bar.php:84
+#: template-parts/content-fixed-bar.php:89
+msgid "Menu"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:377
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:393
+#: inc/admin/tgm/class-tgm-plugin-activation.php:920
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2626
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:394
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:395
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1027
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2075
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2485
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2489
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2493
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2696
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2701
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2707
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3591
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3594
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3596
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3602
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3602
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3602
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3605
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3610
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3613
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:191
+msgid ""
+"There seems to be a temporary problem retrieving the latest updates for "
+"this theme. You can always view your theme&apos;s latest updates in your "
+"Array account dashboard."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:211
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:213
+msgid ""
+"Thanks for purchasing %1$s. You rule! You will find everything you need to "
+"get started setting up your site below."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:219
+msgid "Help File"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:220
+msgid "Plugins"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:221
+msgid "FAQ &amp; Support"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:222
+msgid "Latest Updates"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:246
+msgid ""
+"This help file feed seems to be temporarily down. You can always view the "
+"help file on Array in the meantime."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:246
+msgid "Help File &rarr;"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:256
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:258
+msgid ""
+"Below is a list of recommended plugins to install that will help you get "
+"the most out of Paperback. Although each plugin is optional, some may be "
+"required to achieve a look similiar to the theme demo."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:262
+msgid "Jetpack"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:264
+msgid "Install Jetpack"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:264
+msgid "Install Now"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:266
+#: inc/admin/updater/theme-updater-admin.php:278
+msgid "Activated"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:270
+msgid ""
+"Jetpack is a free plugin that adds support for more gallery styles, contact "
+"forms, extra widgets and more. Once installed, visit Jetpack > Settings to "
+"choose which features you would like to enable. For the best performance, "
+"we recommend deactivating all Jetpack features by default and only "
+"activating the ones you want."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:274
+msgid "WP Forms"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:276
+msgid "View on WP.org"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:282
+msgid ""
+"WPForms allows you to easily create contact forms for your site with a "
+"powerful drag and drop editor."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:288
+#: inc/admin/updater/theme-updater-admin.php:293
+msgid "Where do I get support for Paperback?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:289
+#: inc/admin/updater/theme-updater-admin.php:313
+msgid "How do I activate Typekit fonts and enable theme updates?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:290
+#: inc/admin/updater/theme-updater-admin.php:324
+msgid "How long are my Typekit fonts active?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:297
+msgid ""
+"If you&apos;ve read through the Help File in the first tab and still have "
+"questions or are experiencing issues, we&apos;re happy to help! Simply <a "
+"href=\"%s\" title=\"Sign in to your Array account\">sign in</a> to your "
+"account on Array and visit the Support link in the header."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:304
+msgid ""
+"If you&apos;ve purchased your theme via ThemeForest, you will first have to "
+"create an account at Array to get a license key and access support. Visit "
+"the <a href=\"%s\" title=\"Create an account\">ThemeForest</a> page to "
+"validate your purchase code and create an account."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:309
+msgid "View support forum"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:309
+msgid "Visit the Support page &rarr;"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:317
+msgid ""
+"To activate the fancy Typekit fonts and theme updates on your site, you "
+"simply need to activate your Paperback license in the sidebar. Copy your "
+"license from your <a target=\"blank\" href=\"%s\" title=\"Visit your Array "
+"Dashboard\">Dashboard</a> page at Array, and enter it into the sidebar "
+"License box. Once activated, Typekit will be enabled as well as in-dash "
+"theme updates!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:328
+msgid ""
+"Once you activate your license, your Typekit fonts are active for 1 year. "
+"At the end of the year, your license will be renewed to ensure your site "
+"stays in tip top shape. You may opt out of renewing your license in your "
+"Array Dashboard, but you will no longer have access to theme support, "
+"updates or your fancy Typekit fonts."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:334
+msgid ""
+"<a target=\"blank\" href=\"%s\" title=\"Visit your Array Dashboard\">View "
+"the Typekit FAQ &rarr;</a>"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:350
+msgid "Sweet, your license is active!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:356
+msgid "Activate Typekit fonts and in-dash theme updates!"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:359
+msgid ""
+"With an active license, you get beautiful Typekit fonts and one-click theme "
+"updates to keep your site healthy."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:364
+msgid ""
+"You can find your license key in your <a target=\"_blank\" "
+"href=\"%s\">Array Dashboard</a> by visiting the Manage License link."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:382
+msgid "Be sure to activate your license after saving."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:397
+#: inc/admin/updater/theme-updater-admin.php:400
+msgid "Visit the Knowledge Base"
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:398
+msgid ""
+"New to the WordPress world? Our Knowledge Base has over 20 video tutorials, "
+"from installing WordPress to working with themes and more."
+msgstr ""
+
+#: inc/admin/updater/theme-updater-admin.php:400
+msgid "Visit the knowledge base"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:32
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:33
+msgid "Enter your theme license key."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:34
+msgid "Enter your license key"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:35
+msgid "License Action"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:36
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:37
+msgid "Activate License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:38
+msgid "Save License"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:39
+#: inc/admin/updater/theme-updater.php:51
+msgid "License status is unknown."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:40
+msgid "Renew?"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:41
+msgid "unlimited"
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:42
+msgid ""
+"Typekit fonts and in-dash theme updates have been enabled. You will receive "
+"a notice in your dashboard when a theme update is available."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:43
+msgid "Your license for Paperback expires %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:44
+msgid "You have %1$s / %2$s sites activated."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:45
+msgid "License key expired %s."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:46
+msgid "License key has expired."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:47
+msgid "License keys do not match."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:48
+msgid "License is inactive."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:49
+msgid "License key is disabled."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:50
+msgid "Site is inactive."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:52
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: inc/admin/updater/theme-updater.php:53
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" "
+"class=\"thickbox\" title=\"%4s\">Check out what's new</a> or <a "
+"href=\"%5$s\"%6$s>update now</a>."
+msgstr ""
+
+#: inc/color-customizer.php:32
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/color-customizer.php:56
+msgid "Top Navigation Background Color"
+msgstr ""
+
+#: inc/color-customizer.php:57
+msgid "Applied to the top navigation background."
+msgstr ""
+
+#: inc/color-customizer.php:72
+msgid "Top Navigation Text Color"
+msgstr ""
+
+#: inc/color-customizer.php:73
+msgid "Applied to the top navigation text and links."
+msgstr ""
+
+#: inc/color-customizer.php:88
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/color-customizer.php:89
+msgid "Applied to the header that contains the logo and main navigation."
+msgstr ""
+
+#: inc/color-customizer.php:104
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/color-customizer.php:105
+msgid "Applied to text and links in the header."
+msgstr ""
+
+#: inc/color-customizer.php:120
+msgid "Accent Color"
+msgstr ""
+
+#: inc/color-customizer.php:121
+msgid "Applied to some elements as an accent color."
+msgstr ""
+
+#: inc/color-customizer.php:136
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/color-customizer.php:137
+msgid "Applied to the background of the footer widget area."
+msgstr ""
+
+#: inc/color-customizer.php:152
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/color-customizer.php:153
+msgid "Applied to the text in the footer widget area."
+msgstr ""
+
+#: inc/color-customizer.php:183
+msgid "Default"
+msgstr ""
+
+#: inc/color-customizer.php:195
+msgid "Blue"
+msgstr ""
+
+#: inc/color-customizer.php:207
+msgid "Green"
+msgstr ""
+
+#: inc/color-customizer.php:219
+msgid "Purple"
+msgstr ""
+
+#: inc/color-customizer.php:231
+msgid "Red"
+msgstr ""
+
+#: inc/color-customizer.php:243
+msgid "Orange"
+msgstr ""
+
+#: inc/customizer.php:42 inc/edd/edd.php:159
+msgid "Select a category to populate the hero header."
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Display Header Text"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Header Height"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Adjust the height of the site identity header."
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Footer Tagline"
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Post Layout"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Choose a layout for posts on your homepage and archive pages."
+msgstr ""
+
+#: inc/customizer.php:311
+msgid "1 column + sidebar"
+msgstr ""
+
+#: inc/customizer.php:312
+msgid "2 column grid + sidebar"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "3 column grid no sidebar"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Grid View Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Change the size of the excerpt on grid views."
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Auto Generate Excerpt"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Auto generate an excerpt for blog posts on the homepage, archive and search."
+msgstr ""
+
+#: inc/customizer.php:363 inc/customizer.php:388 inc/customizer.php:413
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer.php:364 inc/customizer.php:389 inc/customizer.php:414
+msgid "Enabled"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Category Mega Menu"
+msgstr ""
+
+#: inc/customizer.php:384
+msgid "Replace the main navigation menu with a category mega menu."
+msgstr ""
+
+#: inc/customizer.php:408
+msgid "Fixed Scroll Bar"
+msgstr ""
+
+#: inc/customizer.php:409
+msgid "Show a fixed scroll bar when scrolling back to the top of your site."
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "Comment Section Style"
+msgstr ""
+
+#: inc/customizer.php:433
+msgid ""
+"Choose to hide the comment section by default or always show the comment "
+"section."
+msgstr ""
+
+#: inc/customizer.php:437
+msgid "Click to show"
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Always show"
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Featured Posts Header"
+msgstr ""
+
+#: inc/customizer.php:462
+msgid "Featured Post Category"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Exclude Featured Posts"
+msgstr ""
+
+#: inc/customizer.php:477
+msgid ""
+"Check this box if you only want your featured posts to appear in the "
+"header, not the post loop."
+msgstr ""
+
+#: inc/customizer.php:500
+msgid "Featured Post Opacity"
+msgstr ""
+
+#: inc/customizer.php:501
+msgid "Change the opacity of your hero images."
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "Featured Image Height"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Adjust the height of your header on single post pages."
+msgstr ""
+
+#: inc/customizer.php:550
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:554
+msgid ""
+"Use this setting to add minor CSS edits. Further CSS edits should be made "
+"in a child theme to ensure your edits are safely stored."
+msgstr ""
+
+#: inc/customizer.php:615
+msgid " %1$s Theme by %2$s."
+msgstr ""
+
+#: inc/edd/content-fixed-bar-edd.php:35 inc/template-tags.php:271
+#: template-parts/content-fixed-bar.php:35
+msgid "Next"
+msgstr ""
+
+#: inc/edd/content-fixed-bar-edd.php:72 template-parts/content-fixed-bar.php:65
+msgid "Featured"
+msgstr ""
+
+#: inc/edd/edd.php:49
+msgid "Disable Featured Header"
+msgstr ""
+
+#: inc/edd/edd.php:135
+msgid "Featured Post Content"
+msgstr ""
+
+#: inc/edd/edd.php:136
+msgid "Do you want to show standard posts or EDD %s in the Featured Post Header?"
+msgstr ""
+
+#: inc/edd/edd.php:140 inc/edd/edd.php:185
+msgid "Posts"
+msgstr ""
+
+#: inc/edd/edd.php:158
+msgid "Featured Download Category"
+msgstr ""
+
+#: inc/edd/edd.php:179
+msgid "Mega Menu Content"
+msgstr ""
+
+#: inc/edd/edd.php:180
+msgid "Do you want to show standard posts or EDD %s in the Category Mega Menu?"
+msgstr ""
+
+#: inc/jetpack.php:45
+msgid "Load more"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:20
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:52
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:54 template-parts/content-drawer.php:60
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:180
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:180
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:191
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:203
+msgid "Leave a reply"
+msgstr ""
+
+#: inc/template-tags.php:242
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:365
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:366
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:388
+msgid "Posts by"
+msgstr ""
+
+#: inc/template-tags.php:393
+msgid "All posts by"
+msgstr ""
+
+#: inc/template-tags.php:395
+msgid "Posted by"
+msgstr ""
+
+#: inc/template-tags.php:403
+msgid ""
+"Complete your author profile info to be shown here. <a href=\"%1$s\">Edit "
+"your profile &rarr;</a>"
+msgstr ""
+
+#: inc/template-tags.php:415
+msgid "All Posts"
+msgstr ""
+
+#: inc/template-tags.php:418
+msgid "Website"
+msgstr ""
+
+#: inc/typekit/typekit.php:92
+msgid "Typekit"
+msgstr ""
+
+#: inc/typekit/typekit.php:106
+msgid "Disable Typekit"
+msgstr ""
+
+#: inc/typekit/typekit.php:107
+msgid ""
+"Check to disable the Typekit fonts included with this theme if you would "
+"like to use your own fonts."
+msgstr ""
+
+#: page.php:51 single.php:54
+msgid "Show comments"
+msgstr ""
+
+#: page.php:53 single.php:56
+msgid "Leave a comment"
+msgstr ""
+
+#: page.php:56 single.php:59
+msgid "Hide comments"
+msgstr ""
+
+#: search.php:14
+msgid "Results for: %s"
+msgstr ""
+
+#: searchform.php:11 template-parts/content-big-search.php:14
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13 template-parts/content-big-search.php:16
+msgid "Search here..."
+msgstr ""
+
+#: searchform.php:16 template-parts/content-big-search.php:43
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-big-search.php:28
+msgid "Entire Site"
+msgstr ""
+
+#: template-parts/content-drawer.php:19
+msgid "Categories"
+msgstr ""
+
+#: template-parts/content-drawer.php:40
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content-hero-item.php:63 template-parts/content.php:50
+msgid "Posts by "
+msgstr ""
+
+#: template-parts/content-hero-item.php:70
+msgid "on"
+msgstr ""
+
+#: template-parts/content-meta.php:28
+msgid "Posted in:"
+msgstr ""
+
+#: template-parts/content-meta.php:47
+msgid "Tagged in:"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content.php:75
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content.php:79
+msgid "Edit This"
+msgstr ""
+
+#: template-parts/content.php:55
+msgid " on "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Paperback"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://arraythemes.com/themes/paperback-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Paperback is a magazine-style theme that empowers you to quickly and easily "
+"create beautiful, immersive content with images, galleries, video, audio "
+"and more. Make your content even more engaging and discoverable with the "
+"featured post carousel and category mega menu."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Array"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://arraythemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Downloads"
+msgstr ""
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:191
+#. Translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:197
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:1214
+#: inc/admin/tgm/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2435
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2481
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/tgm/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/template-tags.php:22
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:35
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:37
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: inc/template-tags.php:41
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: inc/template-tags.php:43
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: inc/template-tags.php:45
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""

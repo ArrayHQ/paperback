@@ -1,0 +1,317 @@
+/*--------------------------------------------------------------
+Typographic styles for the post editor
+--------------------------------------------------------------*/
+
+.mceContentBody {
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 19px;
+	line-height: 1.6;
+}
+
+.mceContentBody h1,
+.mceContentBody h2,
+.mceContentBody h3,
+.mceContentBody h4,
+.mceContentBody h5,
+.mceContentBody h6 {
+	clear: both;
+	color: #343E47;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	line-height: 1.2;
+	margin-bottom: 3%;
+	margin-top: 0;
+}
+
+.mceContentBody h1 {
+    font-size: 60px;
+}
+
+.mceContentBody h2 {
+    font-size: 50px;
+}
+
+.mceContentBody h3 {
+    font-size: 40px;
+}
+
+.mceContentBody h4 {
+    font-size: 30px;
+}
+
+.mceContentBody h5 {
+    font-size: 20px;
+}
+
+.mceContentBody h6 {
+    font-size: 16px;
+}
+
+.mceContentBody p {
+	margin-bottom: 1.4em;
+}
+
+hr {
+	background-color: transparent;
+	border: 0;
+	border-bottom: dotted 1px #c7d6e4;
+	height: 2px;
+	margin: 4% 0;
+}
+
+.mceContentBody blockquote {
+	position: relative;
+	margin: 0 0 0 0;
+	z-index: 1;
+}
+
+.mceContentBody blockquote p {
+	color: #343E47;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 22px;
+	line-height: 1.6;
+	margin: 1em 0 1.4em 0;
+	position: relative;
+	padding: 20px 0 0 8%;
+	border-top: solid 4px #343E47;
+}
+
+.mceContentBody blockquote p:before {
+	content: "\201C";
+	font-family: 'georgia';
+	position: absolute;
+	left: 0;
+	font-size: 60px;
+	width: 30px;
+	top: 25px;
+	line-height: 1;
+}
+
+.mceContentBody ul,
+.mceContentBody ol {
+	margin: 0 0 5% 25px;
+	padding-left: 0;
+}
+
+.mceContentBody ul {
+	list-style: square;
+	line-height: 2;
+}
+
+.mceContentBody ol {
+	list-style: decimal;
+	line-height: 2;
+}
+
+.mceContentBody ul ul,
+.mceContentBody ol ol,
+.mceContentBody ul ol,
+.mceContentBody ol ul {
+	margin: .3em 0 0 1.5em;
+}
+
+.mceContentBody img {
+	max-width: 100%;
+	height: auto;
+}
+
+.highlight {
+	background: #fff198;
+	color: #404040;
+}
+
+/*--------------------------------------------------------------
+Table Styles
+--------------------------------------------------------------*/
+
+table {
+	font-size: 18px;
+	margin-bottom: 5%;
+	padding: 0;
+	width: 100%;
+}
+
+table thead {
+	background: #eaf1f5;
+}
+
+table thead th {
+	font-weight: bold;
+}
+
+table td, #content table th {
+	padding: 10px;
+}
+
+table td {
+	border-bottom: solid 1px #eaf1f5;
+}
+
+table tr:last-child td {
+	border-bottom: none;
+}
+
+table tr:nth-child(even) {
+	background: #eaf1f5;
+}
+
+/*--------------------------------------------------------------
+Code Styles
+--------------------------------------------------------------*/
+
+pre {
+	background: #eaf1f5;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 15px;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em;
+}
+
+code, kbd, tt, var {
+	font: 15px Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+}
+
+/*--------------------------------------------------------------
+Alignments
+--------------------------------------------------------------*/
+
+.alignleft {
+	display: inline;
+	float: left;
+	margin: .5em 2em .5em 0;
+}
+
+@media (max-width: 600px) {
+	.alignleft {
+		max-width: 200px;
+		margin-right: 1em;
+	}
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin: .5em 0 1.5em 2em;
+}
+
+@media (max-width: 600px) {
+	.alignright {
+		max-width: 200px;
+		margin-left: 1em;
+	}
+}
+
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto 1.5em auto;
+}
+
+dl.wp-caption {
+	background: none;
+	border: none;
+}
+
+.wp-caption {
+	margin: .5em 0 1.5em 0;
+	max-width: 100%;
+	text-align: left;
+}
+
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin: 0;
+	max-width: 100%;
+}
+
+.wp-caption-text,
+.gallery-caption,
+.wp-caption-dd {
+	padding: 0;
+	margin-top: 12px;
+	width: 100%;
+	color: #8494A1;
+	text-transform: none;
+	font-size: 15px;
+	font-weight: 400;
+	letter-spacing: 0;
+	padding-left: 10px;
+	border-left: solid 2px #e3eaf0;
+	margin-bottom: 0;
+}
+
+.pull-right,
+.pull-excerpt {
+	float: right;
+	margin: 1.2% 0 2% 5%;
+	text-align: right;
+}
+
+.pull-left {
+	float: left;
+	margin: 1.5% 5% 2% 0;
+}
+
+.pull-right,
+.pull-left,
+.pull-excerpt {
+	color: #343e47;
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 1.4;
+	width: 32%;
+	padding: 20px 0 0 0;
+	border-top: solid 4px #343e47;
+}
+
+@media screen and (max-width: 786px) {
+	.pull-right,
+	.pull-left,
+	.pull-excerpt {
+		font-size: 18px;
+		width: 100%;
+		margin: 0 0 5% 0;
+	}
+}
+
+.pull-excerpt {
+	font-style: normal;
+	text-align: left;
+	padding-top: 18px;
+	line-height: 1.6;
+	margin-top: 9px;
+}
+
+@media screen and (max-width: 768px) {
+	.pull-excerpt {
+		font-style: 18px;
+	}
+}
+
+.dropcap {
+  float: left;
+  padding: 0;
+  position: relative;
+  color: #343e47;
+  text-align: center;
+  height: 80px;
+  font-family: "europa-1", "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 105px;
+  line-height: .9;
+  margin: 0 12px 10px 0;
+}
+@media (max-width: 600px) {
+  .dropcap {
+    font-size: 95px;
+  }
+}
+@media (max-width: 600px) {
+  .dropcap {
+    font-size: 84px;
+  }
+}
